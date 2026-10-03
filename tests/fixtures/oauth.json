@@ -1,0 +1,6 @@
+{
+  "access_token": "1000.sample_valid_test_access_token_abcdef123456",
+  "token_type": "Bearer",
+  "expires_in": 3600,
+  "api_domain": "https://www.zohoapis.com"
+}

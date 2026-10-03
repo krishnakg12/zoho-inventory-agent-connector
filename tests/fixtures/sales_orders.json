@@ -1,0 +1,48 @@
+{
+  "code": 0,
+  "message": "success",
+  "page_context": {
+    "page": 1,
+    "per_page": 1,
+    "has_more_page": false,
+    "total": 1
+  },
+  "salesorders": [
+    {
+      "salesorder_id": "so_201",
+      "salesorder_number": "SO-00099",
+      "customer_id": "contact_901",
+      "customer_name": "Starlight Corp",
+      "date": "2026-02-14",
+      "status": "confirmed",
+      "reference_number": "PO-STAR-1",
+      "total": 588.50,
+      "sub_total": 588.50,
+      "tax_total": 0.0,
+      "currency_code": "USD",
+      "delivery_method": "UPS Ground",
+      "shipment_date": "2026-02-18",
+      "notes": "Deliver to Dock 4",
+      "line_items": [
+        {
+          "item_id": "item_101",
+          "name": "Standing Desk 48-inch",
+          "sku": "DSK-48-BLK",
+          "quantity": 1.0,
+          "rate": 399.00,
+          "item_total": 399.00,
+          "unit": "pcs"
+        },
+        {
+          "item_id": "item_102",
+          "name": "Ergonomic Mesh Chair",
+          "sku": "CHR-MSH-01",
+          "quantity": 1.0,
+          "rate": 189.50,
+          "item_total": 189.50,
+          "unit": "pcs"
+        }
+      ]
+    }
+  ]
+}

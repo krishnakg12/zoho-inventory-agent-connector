@@ -1,0 +1,48 @@
+{
+  "code": 0,
+  "message": "success",
+  "page_context": {
+    "page": 1,
+    "per_page": 2,
+    "has_more_page": true,
+    "total": 3
+  },
+  "items": [
+    {
+      "item_id": "item_101",
+      "name": "Standing Desk 48-inch",
+      "sku": "DSK-48-BLK",
+      "status": "active",
+      "description": "Adjustable height standing desk with motorized frame.",
+      "category_name": "Furniture",
+      "stock_on_hand": 15.0,
+      "available_stock": 10.0,
+      "actual_available_stock": 10.0,
+      "reorder_level": 5.0,
+      "rate": 399.00,
+      "purchase_rate": 220.00,
+      "unit": "pcs",
+      "currency_code": "USD",
+      "created_time": "2026-01-10T09:00:00Z",
+      "last_modified_time": "2026-02-01T10:00:00Z"
+    },
+    {
+      "item_id": "item_102",
+      "name": "Ergonomic Mesh Chair",
+      "sku": "CHR-MSH-01",
+      "status": "active",
+      "description": "Ergonomic office chair with breathable mesh backing.",
+      "category_name": "Furniture",
+      "stock_on_hand": 3.0,
+      "available_stock": 2.0,
+      "actual_available_stock": 2.0,
+      "reorder_level": 5.0,
+      "rate": 189.50,
+      "purchase_rate": 95.00,
+      "unit": "pcs",
+      "currency_code": "USD",
+      "created_time": "2026-01-12T11:00:00Z",
+      "last_modified_time": "2026-02-05T14:00:00Z"
+    }
+  ]
+}
